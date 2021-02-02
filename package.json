@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fresco/gulp-angular-embed-templates-casing"
+    "url": "https://github.com/chaitu-any/gulp-angular-embed-templates"
   },
   "keywords": [
     "gulpplugin",
