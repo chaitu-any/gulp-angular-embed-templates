@@ -30,13 +30,13 @@
     "minimize": "^2.0.0",
     "through2": "^2.0.1",
     "htmlparser2": "~3.9.1",
-    "object-assign": "4.1.0"
+    "object-assign": "4.1.0",
+    "true-case-path": "^2.2.1"
   },
   "devDependencies": {
     "chai": "^3.5.0",
     "chai-string": "^1.2.0",
-    "mocha": "^3.0.2",
-    "true-case-path": "^2.2.1"
+    "mocha": "^3.0.2"
   },
   "files": [
     "package.json",
