@@ -1,7 +1,7 @@
 {
   "name": "gulp-angular-embed-templates-casing",
-  "version": "1.0.0",
-  "description": "gulp plugin to include the contents of angular templates inside directive's code",
+  "version": "1.1.0",
+  "description": "gulp plugin to include the contents of angular templates inside directive's code which case sensitive folders",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
